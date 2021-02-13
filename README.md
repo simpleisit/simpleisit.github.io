@@ -1,2 +1,2 @@
 # simpleisit.github.io
-Simple is IT
+BLOG Simple is IT
